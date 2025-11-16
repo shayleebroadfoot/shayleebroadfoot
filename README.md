@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I am in the process of building my GitHub page.
 
 <h2>👩‍💻 Software Development Projects </h2>
-<b><li>Coming Soon :)</li></b>
+<b><li>Coming Soon</li></b>
 
 <br/>
 <br/>
